@@ -1,0 +1,16 @@
+Package: com.cclhk.invid
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: cclhk
+Depends: firmware (>= 12.0)
+Filename: https://github.com/cclhk/Invid/releases/download/v0.1.2/Invid.v0.1.2.deb
+Size: 13161128
+MD5sum: 16072ea3adcc9652697f5042628ff1bb
+SHA1: 9a34f8aa55fd025d6aa243fe6c9add61c1781943
+SHA256: 86525216354df0c726f887498f329d54c39be1684ae81163729927276995f977
+Section: Applications
+Homepage: http://github.com/cclhk/Invid
+Description: An app for Invidious, the privacy-focused (and discontinued) front-end to YouTube.
+Author: cclhk
+Name: Invid
+
